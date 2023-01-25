@@ -1,1 +1,1 @@
-# Synchronization-between-Github-and-VS-Code
+# First Repository cloned to VS Code
